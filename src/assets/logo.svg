@@ -1,0 +1,27 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF512F" />
+      <stop offset="100%" stop-color="#DD2476" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Steam -->
+  <path d="M 70 80 C 60 50, 90 40, 80 20" stroke="url(#gradient)" stroke-width="10" stroke-linecap="round" fill="none" filter="url(#glow)"/>
+  <path d="M 100 80 C 110 50, 80 40, 100 20" stroke="url(#gradient)" stroke-width="10" stroke-linecap="round" fill="none" filter="url(#glow)"/>
+  <path d="M 130 80 C 120 50, 150 40, 140 20" stroke="url(#gradient)" stroke-width="10" stroke-linecap="round" fill="none" filter="url(#glow)"/>
+
+  <!-- Pot -->
+  <path d="M 40 90 L 160 90 A 20 20 0 0 1 180 110 L 180 120 A 40 40 0 0 1 140 160 L 60 160 A 40 40 0 0 1 20 120 L 20 110 A 20 20 0 0 1 40 90 Z" fill="url(#gradient)" filter="url(#glow)"/>
+  
+  <!-- Pot Lid Line -->
+  <rect x="10" y="80" width="180" height="15" rx="7.5" fill="white" fill-opacity="0.9" filter="url(#glow)"/>
+  <rect x="75" y="65" width="50" height="15" rx="5" fill="white" fill-opacity="0.9" filter="url(#glow)"/>
+</svg>
