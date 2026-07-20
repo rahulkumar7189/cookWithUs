@@ -2,11 +2,8 @@
 
 #### Video Demo: `<YOUR YOUTUBE URL HERE>`
 
-<<<<<<< HEAD
-=======
 #### 🌐 Live Demo: [cook-with-us on Vercel](https://vercel.com/rahulkumar7189s-projects/cook-with-us/Bn8FufWasqkHpe49dFyvs1SS5V5P)
 
->>>>>>> ee1063e (Add live Vercel demo link to README)
 #### Description:
 
 **CookWithUs** is an AI-powered recipe generator built as a modern web application using React 19 and the Groq API. The idea is simple: you tell the app what ingredients you already have at home, and an AI chef powered by Meta's Llama 3.3 large language model instantly generates a complete, step-by-step recipe tailored specifically to your available ingredients. No more staring into the fridge and wondering what to cook — CookWithUs figures it out for you.
