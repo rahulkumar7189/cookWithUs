@@ -2,7 +2,7 @@
 
 #### Video Demo: `<YOUR YOUTUBE URL HERE>`
 
-#### 🌐 Live Demo: [cook-with-us on Vercel](https://vercel.com/rahulkumar7189s-projects/cook-with-us/Bn8FufWasqkHpe49dFyvs1SS5V5P)
+#### 🌐 Live Demo: [cook-with-us on Vercel](https://cook-with-us-kohl.vercel.app/)
 
 #### Description:
 
