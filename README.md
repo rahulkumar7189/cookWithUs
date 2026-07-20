@@ -1,7 +1,5 @@
 # CookWithUs
 
-#### Video Demo: [Video Here](https://youtu.be/kgUEBk0COUg)
-
 #### 🌐 Live Demo: [cook-with-us on Vercel](https://cook-with-us-kohl.vercel.app/)
 
 #### Description:
